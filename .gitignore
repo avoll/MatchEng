@@ -9,6 +9,8 @@ match-eng.log.*.gz
 .settings
 bin
 build
+out
+*.class
 target
 dependency-reduced-pom.xml
 *.sublime-*
